@@ -31,7 +31,7 @@
 
 ```bash
 # 根據您的 Gemini CLI 啟動指令
-gemini-cli # 或您設定的其他指令
+gemini
 ```
 
 ### 3. 「零號會議 (Session Zero)」引導
